@@ -362,7 +362,7 @@ eks-nginx-deployment/
 ├── screenshots/
 │   ├── 01-EC2-Management-Server.png
 │   ├── 02-IAM-Role-EC2-K8s.png
-│   ├── 03-AWS-IAM-Verification.png
+│   ├── 03-AWS-CLI-IAM-Verification.png
 │   ├── 04-kubectl-Version.png
 │   ├── 05-eksctl-Version.png
 │   ├── 06-AWS-Region-Cluster-Check.png
