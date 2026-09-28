@@ -393,7 +393,7 @@ eks-nginx-deployment/
 
 ### AWS IAM Verification
 
-![AWS IAM Verification](screenshots/03-AWS-IAM-Verification.png)
+![AWS IAM Verification](screenshots/03-AWS-CLI-IAM-Verification.png)
 
 ### kubectl Version
 
